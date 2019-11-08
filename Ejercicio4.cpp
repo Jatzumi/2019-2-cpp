@@ -9,7 +9,7 @@ private:
     entero edad;
     caracter* nombre;
 public:
-    Persona(entero _edad):edad{_edad}, peso{0.0}, nombre{""} {}
+    Persona(entero _edad):edad{_edad}, peso{0.0}{ nombre = nullptr;}
     Persona(caracter * _nombre):edad{0}, peso{0}, nombre{_nombre}{}
     void print(){std::cout << "peso:" << peso << " edad:" << edad << "nombre:" << nombre; }
 };

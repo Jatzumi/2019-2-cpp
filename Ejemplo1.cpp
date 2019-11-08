@@ -16,6 +16,13 @@ T max(T a, T b) {
     return a > b ? a:b;
 }
 
+template <class T>
+void swap(T &a, T &b){
+	T Temp = a;
+	a = b; 
+	b = Temp;
+}
+
 void ejemplo1() {
     std::cout << ::max(9, 6) << "\n";
     std::cout << ::max(12.6, 3.0) << "\n";;
