@@ -95,6 +95,12 @@
 		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Paralelograma.h">
 			<Option target="subtyping"/>
 		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.cpp">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.h">
+			<Option target="subtyping"/>
+		</Unit>
 		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Triangulo.cpp">
 			<Option target="subtyping"/>
 		</Unit>

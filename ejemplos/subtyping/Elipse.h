@@ -1,8 +1,8 @@
 #ifndef ELIPSE_H
 #define ELIPSE_H
-#include "AbstractPoligono.h"
+#include "Poligono.h"
 
-class Elipse: public AbstractPoligono {
+class Elipse: public Poligono {
     Number ejeMayor;
     Number ejeMenor;
   public:

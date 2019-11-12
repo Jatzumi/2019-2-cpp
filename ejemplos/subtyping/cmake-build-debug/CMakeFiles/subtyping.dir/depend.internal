@@ -5,14 +5,22 @@ CMakeFiles/subtyping.dir/Elipse.cpp.obj
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/AbstractPoligono.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Elipse.cpp
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Elipse.h
+ C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Tipos.h
 CMakeFiles/subtyping.dir/Paralelograma.cpp.obj
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/AbstractPoligono.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Paralelograma.cpp
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Paralelograma.h
+ C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.h
+ C:/Users/Jorge Alvarado/CLionProjects/subtyping/Tipos.h
+CMakeFiles/subtyping.dir/Poligono.cpp.obj
+ C:/Users/Jorge Alvarado/CLionProjects/subtyping/AbstractPoligono.h
+ C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.cpp
+ C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Tipos.h
 CMakeFiles/subtyping.dir/Triangulo.cpp.obj
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/AbstractPoligono.h
+ C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Tipos.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Triangulo.cpp
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Triangulo.h
@@ -20,6 +28,7 @@ CMakeFiles/subtyping.dir/main.cpp.obj
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/AbstractPoligono.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Elipse.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Paralelograma.h
+ C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Tipos.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/Triangulo.h
  C:/Users/Jorge Alvarado/CLionProjects/subtyping/main.cpp

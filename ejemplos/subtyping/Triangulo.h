@@ -1,8 +1,8 @@
 #ifndef TRIANGULO_H
 #define TRIANGULO_H
-#include "AbstractPoligono.h"
+#include "Poligono.h"
 
-class Triangulo: public AbstractPoligono {
+class Triangulo: public Poligono {
     Number base;
     Number altura;
   public:

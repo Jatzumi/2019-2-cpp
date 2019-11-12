@@ -1,8 +1,8 @@
 #ifndef RECTANGULO_H
 #define RECTANGULO_H
-#include "AbstractPoligono.h"
+#include "Poligono.h"
 
-class Paralelograma: public AbstractPoligono {
+class Paralelograma: public Poligono {
     Number base;
     Number altura;
   public:

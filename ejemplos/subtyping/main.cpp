@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "AbstractPoligono.h"
+#include "Poligono.h"
 #include "Triangulo.h"
 #include "Elipse.h"
 #include "Paralelograma.h"
@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
 
-    vector<AbstractPoligono*> poligonos =
+    vector<Poligono*> poligonos =
             {new Triangulo(10, 10), new Paralelograma(20, 30), new Triangulo(2,5), new Elipse(10,10)};
 
     poligonos.push_back(new Elipse(10, 12));

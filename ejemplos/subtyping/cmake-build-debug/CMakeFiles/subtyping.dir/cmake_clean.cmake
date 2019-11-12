@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/subtyping.dir/Elipse.cpp.obj"
   "CMakeFiles/subtyping.dir/Paralelograma.cpp.obj"
   "CMakeFiles/subtyping.dir/Triangulo.cpp.obj"
+  "CMakeFiles/subtyping.dir/Poligono.cpp.obj"
   "subtyping.pdb"
   "subtyping.exe"
   "subtyping.exe.manifest"

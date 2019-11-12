@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Jorge Alvarado/CLionProjects/subtyping/Elipse.cpp" "C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/CMakeFiles/subtyping.dir/Elipse.cpp.obj"
   "C:/Users/Jorge Alvarado/CLionProjects/subtyping/Paralelograma.cpp" "C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/CMakeFiles/subtyping.dir/Paralelograma.cpp.obj"
+  "C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.cpp" "C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/CMakeFiles/subtyping.dir/Poligono.cpp.obj"
   "C:/Users/Jorge Alvarado/CLionProjects/subtyping/Triangulo.cpp" "C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/CMakeFiles/subtyping.dir/Triangulo.cpp.obj"
   "C:/Users/Jorge Alvarado/CLionProjects/subtyping/main.cpp" "C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/CMakeFiles/subtyping.dir/main.cpp.obj"
   )

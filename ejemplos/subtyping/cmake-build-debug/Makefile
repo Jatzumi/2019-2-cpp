@@ -176,6 +176,33 @@ Paralelograma.cpp.s:
 	$(MAKE) -f CMakeFiles\subtyping.dir\build.make CMakeFiles/subtyping.dir/Paralelograma.cpp.s
 .PHONY : Paralelograma.cpp.s
 
+Poligono.obj: Poligono.cpp.obj
+
+.PHONY : Poligono.obj
+
+# target to build an object file
+Poligono.cpp.obj:
+	$(MAKE) -f CMakeFiles\subtyping.dir\build.make CMakeFiles/subtyping.dir/Poligono.cpp.obj
+.PHONY : Poligono.cpp.obj
+
+Poligono.i: Poligono.cpp.i
+
+.PHONY : Poligono.i
+
+# target to preprocess a source file
+Poligono.cpp.i:
+	$(MAKE) -f CMakeFiles\subtyping.dir\build.make CMakeFiles/subtyping.dir/Poligono.cpp.i
+.PHONY : Poligono.cpp.i
+
+Poligono.s: Poligono.cpp.s
+
+.PHONY : Poligono.s
+
+# target to generate assembly for a file
+Poligono.cpp.s:
+	$(MAKE) -f CMakeFiles\subtyping.dir\build.make CMakeFiles/subtyping.dir/Poligono.cpp.s
+.PHONY : Poligono.cpp.s
+
 Triangulo.obj: Triangulo.cpp.obj
 
 .PHONY : Triangulo.obj
@@ -245,6 +272,9 @@ help:
 	@echo ... Paralelograma.obj
 	@echo ... Paralelograma.i
 	@echo ... Paralelograma.s
+	@echo ... Poligono.obj
+	@echo ... Poligono.i
+	@echo ... Poligono.s
 	@echo ... Triangulo.obj
 	@echo ... Triangulo.i
 	@echo ... Triangulo.s
